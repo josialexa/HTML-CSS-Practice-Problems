@@ -54,7 +54,7 @@ Don't worry about being pixel perfect and don't worry if your code doesn't match
 
 ## Step 1
 
-* Open `level-2/index.html` && `level-2/step-1.css` && `level-1/step-1.jpg`.
+* Open `level-2/index.html` && `level-2/step-1.css` && `level-2/step-1.jpg`.
 * Locate the element with the class of `menu`, `logo` and `sign-in`.
   * Assign a display that will allow these elements to appear on the same line.
 * Locate the element with the class of `menu`.
